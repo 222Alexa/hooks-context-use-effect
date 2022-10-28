@@ -4,7 +4,7 @@ ul.user-list {
   margin-top: 40px;
   display: flex;
   flex-direction: column;
-  justify-content: start;
+  justify-content: flex-start;
 }
 
 li.user-list-item.item-list {

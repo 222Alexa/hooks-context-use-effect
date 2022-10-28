@@ -28,3 +28,4 @@ Cписок с пользователями (детализация)
 
 ---
 [GH-Page](https://222alexa.github.io/hooks-context-use-effect/)
+[![Build status](https://ci.appveyor.com/api/projects/status/0r29owkmr3hq636l/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/hooks-context-use-effect/branch/main)
